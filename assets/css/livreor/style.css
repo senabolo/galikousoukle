@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 janv. 2014, 19:09:08
+    Author     : senabolo
+*/
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.pagination
+{
+    text-align: center;
+}
+#messages
+{
+    margin: auto;
+    width: 80%;
+}
+#messages .message
+{
+    margin: 1% auto;
+    padding: 3%;
+    border: 1px outset red;
+}
+form
+{
+    margin: 2% auto;
+    padding: 1.5%;
+    width: 85%;
+    border: 1px inset green;
+    text-align: center;
+}
+form input
+{
+    margin-bottom: 1.5%;
+}
+form textarea
+{
+    margin-bottom: 1.5%;
+    width: 70%;
+}
+#confirmation
+{
+    margin: 1%;
+    padding: 1.5%;
+    border: 1px outset blue;
+    color: rgb(158, 10, 10);
+}
+.form_erreur
+{
+    color: red;
+}
